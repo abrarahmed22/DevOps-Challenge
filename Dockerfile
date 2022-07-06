@@ -12,5 +12,5 @@ RUN pip install -r requirements.txt
 # will not
 COPY . .
 
-EXPOSE 5000
+EXPOSE 8000
 ENTRYPOINT ["python", "./app.py"]
