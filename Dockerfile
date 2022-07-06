@@ -1,16 +1,6 @@
-FROM python:3
+FROM python:3.8-slim-buster
+ADD . /python-flask
+WORKDIR /python-flask
+RUN python -m pip install -r requirements.txt
 
-ENV APP /app
-
-RUN mkdir $APP
-WORKDIR $APP
-
-COPY requirements.txt .
-RUN pip install -r requirements.txt
-
-# Rest of codebase as this will change frequently, whereas the Python modules
-# will not
-COPY . .
-
-EXPOSE 8000
-ENTRYPOINT ["python", "./app.py"]
+CMD [ "python","./app.py"]
