@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2f2e687-151e-4715-beaa-aa304cf69d5b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/jenkinsfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,7 +160,7 @@
       <workItem from="1656588772126" duration="7849000" />
       <workItem from="1656602085091" duration="43052000" />
       <workItem from="1656967315843" duration="12042000" />
-      <workItem from="1657109457809" duration="7288000" />
+      <workItem from="1657109457809" duration="15935000" />
     </task>
     <servers />
   </component>
@@ -171,6 +168,10 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="441" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1657127345646">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="441" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1657127345646" />
     <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1657040805928">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
