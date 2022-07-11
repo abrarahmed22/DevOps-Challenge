@@ -1,3 +1,4 @@
+import os
 import config
 import github_api
 from db_sqlite import Sqlite
@@ -51,4 +52,4 @@ def show_user_gists(username):
 if __name__ == '__main__':
     # from waitress import serve
     # serve(app, host="0.0.0.0", port=5000)
-    app.run()  # run our Flask app
+    app.run(host='0.0.0.0', port=8000)  # run our Flask app

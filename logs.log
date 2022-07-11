@@ -1028,3 +1028,97 @@
 2022-07-07 17:41:41,132 - Added job "Schedular" to job store "default"
 2022-07-07 17:41:41,132 - Scheduler started
 2022-07-07 17:42:08,426 - Scheduler has been shut down
+2022-07-08 10:55:05,513 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2022-07-08 10:55:05,517 - Added job "Schedular" to job store "default"
+2022-07-08 10:55:05,517 - Scheduler started
+2022-07-08 10:55:05,529 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-07-11 12:00:51,885 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2022-07-11 12:00:51,892 - Added job "Schedular" to job store "default"
+2022-07-11 12:00:51,892 - Scheduler started
+2022-07-11 12:00:51,937 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-07-11 12:03:44,370 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2022-07-11 12:03:44,372 - Added job "Schedular" to job store "default"
+2022-07-11 12:03:44,372 - Scheduler started
+2022-07-11 12:03:44,407 -  * Restarting with stat
+2022-07-11 12:03:47,043 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2022-07-11 12:03:47,044 - Added job "Schedular" to job store "default"
+2022-07-11 12:03:47,044 - Scheduler started
+2022-07-11 12:03:47,061 -  * Debugger is active!
+2022-07-11 12:03:47,096 -  * Debugger PIN: 347-658-868
+2022-07-11 12:03:48,676 -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-07-11 12:03:48,678 -  * Running on http://192.168.1.2:8000/ (Press CTRL+C to quit)
+2022-07-11 12:04:01,082 - Scheduler has been shut down
+2022-07-11 12:04:01,212 - Scheduler has been shut down
+2022-07-11 12:04:49,902 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2022-07-11 12:04:49,903 - Added job "Schedular" to job store "default"
+2022-07-11 12:04:49,903 - Scheduler started
+2022-07-11 12:04:49,918 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-07-11 12:04:53,922 - Scheduler has been shut down
+2022-07-11 12:06:02,281 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2022-07-11 12:06:02,283 - Added job "Schedular" to job store "default"
+2022-07-11 12:06:02,283 - Scheduler started
+2022-07-11 12:06:02,296 - Scheduler has been shut down
+2022-07-11 12:12:37,304 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2022-07-11 12:12:37,306 - Added job "Schedular" to job store "default"
+2022-07-11 12:12:37,306 - Scheduler started
+2022-07-11 12:12:37,333 -  * Restarting with stat
+2022-07-11 12:12:40,070 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2022-07-11 12:12:40,072 - Added job "Schedular" to job store "default"
+2022-07-11 12:12:40,072 - Scheduler started
+2022-07-11 12:12:40,088 -  * Debugger is active!
+2022-07-11 12:12:40,102 -  * Debugger PIN: 347-658-868
+2022-07-11 12:12:41,183 -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-07-11 12:12:41,184 -  * Running on http://192.168.1.2:5050/ (Press CTRL+C to quit)
+2022-07-11 12:14:16,692 - Scheduler has been shut down
+2022-07-11 12:14:16,820 - Scheduler has been shut down
+2022-07-11 12:17:43,595 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2022-07-11 12:17:43,598 - Added job "Schedular" to job store "default"
+2022-07-11 12:17:43,598 - Scheduler started
+2022-07-11 12:17:43,622 -  * Restarting with stat
+2022-07-11 12:17:46,662 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2022-07-11 12:17:46,664 - Added job "Schedular" to job store "default"
+2022-07-11 12:17:46,664 - Scheduler started
+2022-07-11 12:17:46,686 -  * Debugger is active!
+2022-07-11 12:17:46,703 -  * Debugger PIN: 347-658-868
+2022-07-11 12:17:47,851 -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-07-11 12:17:47,851 -  * Running on http://192.168.1.2:5050/ (Press CTRL+C to quit)
+2022-07-11 12:21:25,507 - Scheduler has been shut down
+2022-07-11 12:21:25,630 - Scheduler has been shut down
+2022-07-11 12:22:00,325 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2022-07-11 12:22:00,343 -  * Restarting with stat
+2022-07-11 12:22:03,414 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2022-07-11 12:22:03,415 - Added job "Schedular" to job store "default"
+2022-07-11 12:22:03,415 - Scheduler started
+2022-07-11 12:22:42,672 - Scheduler has been shut down
+2022-07-11 12:23:08,387 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2022-07-11 12:23:08,409 -  * Restarting with stat
+2022-07-11 12:23:11,102 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2022-07-11 12:23:11,104 - Added job "Schedular" to job store "default"
+2022-07-11 12:23:11,105 - Scheduler started
+2022-07-11 12:23:11,120 -  * Debugger is active!
+2022-07-11 12:23:11,137 -  * Debugger PIN: 347-658-868
+2022-07-11 12:23:12,228 -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-07-11 12:23:12,229 -  * Running on http://192.168.1.2:5050/ (Press CTRL+C to quit)
+2022-07-11 12:23:27,281 - Scheduler has been shut down
+2022-07-11 12:52:13,406 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2022-07-11 12:52:13,438 -  * Restarting with stat
+2022-07-11 12:52:16,617 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2022-07-11 12:52:16,622 - Added job "Schedular" to job store "default"
+2022-07-11 12:52:16,622 - Scheduler started
+2022-07-11 12:52:44,028 - Scheduler has been shut down
+2022-07-11 12:54:22,031 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2022-07-11 12:54:22,048 -  * Restarting with stat
+2022-07-11 12:54:25,371 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2022-07-11 12:54:25,373 - Added job "Schedular" to job store "default"
+2022-07-11 12:54:25,373 - Scheduler started
+2022-07-11 12:54:42,691 - Scheduler has been shut down
+2022-07-11 13:19:40,959 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2022-07-11 13:19:40,988 -  * Restarting with stat
+2022-07-11 13:19:44,349 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2022-07-11 13:19:44,352 - Added job "Schedular" to job store "default"
+2022-07-11 13:19:44,353 - Scheduler started
+2022-07-11 13:19:45,471 - Scheduler has been shut down
