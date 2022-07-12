@@ -22,4 +22,4 @@ COPY . /app
 #USER appuser
 
 # During debugging, this entry point will be overridden.
-CMD ["gunicorn", "--bind", "13.36.209.57:8000", "app:app"]
+CMD ["gunicorn", "--bind", "0.0.0.0:8000", "app:app"]
