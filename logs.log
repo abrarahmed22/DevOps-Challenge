@@ -1321,3 +1321,17 @@
 2022-07-12 11:58:59,085 - Pipedrive-API: Created 30 activities successfully for user : bmizerany
 2022-07-12 11:58:59,085 - ------------------------------Done!------------------------------
 2022-07-12 11:58:59,085 - Job "Schedular (trigger: interval[3:00:00], next run at: 2022-07-12 14:53:01 BST)" executed successfully
+2022-07-12 17:57:01,948 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2022-07-12 17:57:01,952 - Added job "Schedular" to job store "default"
+2022-07-12 17:57:01,952 - Scheduler started
+2022-07-12 17:57:02,000 -  * Restarting with stat
+2022-07-12 17:57:04,826 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2022-07-12 17:57:04,828 - Added job "Schedular" to job store "default"
+2022-07-12 17:57:04,828 - Scheduler started
+2022-07-12 17:57:04,845 -  * Debugger is active!
+2022-07-12 17:57:04,872 -  * Debugger PIN: 347-658-868
+2022-07-12 17:57:06,367 -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-07-12 17:57:06,368 -  * Running on http://192.168.1.2:8000/ (Press CTRL+C to quit)
+2022-07-12 17:57:37,451 - Scheduler has been shut down
+2022-07-12 17:57:37,656 - Scheduler has been shut down
