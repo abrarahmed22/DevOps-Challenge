@@ -187,6 +187,6 @@ def run_job(seconds):
     """
     scheduler = APScheduler()
     scheduler.add_job(func=fetch_users_gists, trigger="interval", seconds=seconds, id="Schedular",
-                      next_run_time=datetime.datetime.now() + datetime.timedelta(minutes=5))
+                      next_run_time=datetime.datetime.now() + datetime.timedelta(minutes=2))
     scheduler.start()
     atexit.register(lambda: scheduler.shutdown())

@@ -1122,3 +1122,202 @@
 2022-07-11 13:19:44,352 - Added job "Schedular" to job store "default"
 2022-07-11 13:19:44,353 - Scheduler started
 2022-07-11 13:19:45,471 - Scheduler has been shut down
+2022-07-12 11:38:11,309 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2022-07-12 11:38:11,334 -  * Restarting with stat
+2022-07-12 11:38:14,636 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2022-07-12 11:38:14,638 - Added job "Schedular" to job store "default"
+2022-07-12 11:38:14,638 - Scheduler started
+2022-07-12 11:42:56,754 - Scheduler has been shut down
+2022-07-12 11:44:30,000 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2022-07-12 11:44:30,019 -  * Restarting with stat
+2022-07-12 11:44:33,158 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2022-07-12 11:44:33,160 - Added job "Schedular" to job store "default"
+2022-07-12 11:44:33,160 - Scheduler started
+2022-07-12 11:46:47,079 - Scheduler has been shut down
+2022-07-12 11:46:54,354 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2022-07-12 11:46:54,374 -  * Restarting with stat
+2022-07-12 11:46:57,529 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2022-07-12 11:46:57,532 - Added job "Schedular" to job store "default"
+2022-07-12 11:46:57,532 - Scheduler started
+2022-07-12 11:50:57,249 - Scheduler has been shut down
+2022-07-12 11:50:57,529 -  * Restarting with stat
+2022-07-12 11:51:01,118 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2022-07-12 11:51:01,119 - Added job "Schedular" to job store "default"
+2022-07-12 11:51:01,119 - Scheduler started
+2022-07-12 11:53:01,026 - Running job "Schedular (trigger: interval[3:00:00], next run at: 2022-07-12 11:53:01 BST)" (scheduled at 2022-07-12 11:53:01.009162+01:00)
+2022-07-12 11:53:01,026 - ------------------------------Start Fetching------------------------------
+2022-07-12 11:53:02,121 - Users saved to database.
+2022-07-12 11:53:03,051 - Gists fetched for this user: mojombo
+2022-07-12 11:53:03,052 - Formatting gists...
+2022-07-12 11:53:07,104 - Formatting complete
+2022-07-12 11:53:07,151 - 30 New gists found and saved into db for this user: mojombo
+2022-07-12 11:53:07,151 - Creating acitivity on Pipedrive...
+2022-07-12 11:53:20,910 - Pipedrive-API: Created 30 activities successfully for user : mojombo
+2022-07-12 11:53:21,844 - Gists fetched for this user: defunkt
+2022-07-12 11:53:21,845 - Formatting gists...
+2022-07-12 11:53:21,852 - Formatting complete
+2022-07-12 11:53:21,902 - 30 New gists found and saved into db for this user: defunkt
+2022-07-12 11:53:21,902 - Creating acitivity on Pipedrive...
+2022-07-12 11:53:35,976 - Pipedrive-API: Created 30 activities successfully for user : defunkt
+2022-07-12 11:53:36,792 - Gists fetched for this user: pjhyett
+2022-07-12 11:53:36,792 - Formatting gists...
+2022-07-12 11:53:36,812 - Formatting complete
+2022-07-12 11:53:36,864 - 21 New gists found and saved into db for this user: pjhyett
+2022-07-12 11:53:36,864 - Creating acitivity on Pipedrive...
+2022-07-12 11:53:47,171 - Pipedrive-API: Created 21 activities successfully for user : pjhyett
+2022-07-12 11:53:48,151 - Gists fetched for this user: wycats
+2022-07-12 11:53:48,152 - Formatting gists...
+2022-07-12 11:53:48,168 - Formatting complete
+2022-07-12 11:53:48,253 - 30 New gists found and saved into db for this user: wycats
+2022-07-12 11:53:48,254 - Creating acitivity on Pipedrive...
+2022-07-12 11:54:02,237 - Pipedrive-API: Created 30 activities successfully for user : wycats
+2022-07-12 11:54:03,837 - Gists fetched for this user: ezmobius
+2022-07-12 11:54:03,837 - Formatting gists...
+2022-07-12 11:54:03,842 - Formatting complete
+2022-07-12 11:54:03,893 - 30 New gists found and saved into db for this user: ezmobius
+2022-07-12 11:54:03,893 - Creating acitivity on Pipedrive...
+2022-07-12 11:54:16,543 - Pipedrive-API: Created 30 activities successfully for user : ezmobius
+2022-07-12 11:54:18,173 - Gists fetched for this user: ivey
+2022-07-12 11:54:18,173 - Formatting gists...
+2022-07-12 11:54:18,184 - Formatting complete
+2022-07-12 11:54:18,249 - 30 New gists found and saved into db for this user: ivey
+2022-07-12 11:54:18,250 - Creating acitivity on Pipedrive...
+2022-07-12 11:54:32,212 - Pipedrive-API: Created 30 activities successfully for user : ivey
+2022-07-12 11:54:33,753 - Gists fetched for this user: evanphx
+2022-07-12 11:54:33,754 - Formatting gists...
+2022-07-12 11:54:33,764 - Formatting complete
+2022-07-12 11:54:33,807 - 30 New gists found and saved into db for this user: evanphx
+2022-07-12 11:54:33,808 - Creating acitivity on Pipedrive...
+2022-07-12 11:54:46,059 - Pipedrive-API: Created 30 activities successfully for user : evanphx
+2022-07-12 11:54:47,484 - Gists fetched for this user: vanpelt
+2022-07-12 11:54:47,484 - Formatting gists...
+2022-07-12 11:54:47,493 - Formatting complete
+2022-07-12 11:54:47,551 - 30 New gists found and saved into db for this user: vanpelt
+2022-07-12 11:54:47,552 - Creating acitivity on Pipedrive...
+2022-07-12 11:55:00,133 - Pipedrive-API: Created 30 activities successfully for user : vanpelt
+2022-07-12 11:55:01,734 - Gists fetched for this user: wayneeseguin
+2022-07-12 11:55:01,734 - Formatting gists...
+2022-07-12 11:55:01,756 - Formatting complete
+2022-07-12 11:55:01,841 - 30 New gists found and saved into db for this user: wayneeseguin
+2022-07-12 11:55:01,842 - Creating acitivity on Pipedrive...
+2022-07-12 11:55:15,539 - Pipedrive-API: Created 30 activities successfully for user : wayneeseguin
+2022-07-12 11:55:16,636 - Gists fetched for this user: brynary
+2022-07-12 11:55:16,636 - Formatting gists...
+2022-07-12 11:55:16,646 - Formatting complete
+2022-07-12 11:55:16,723 - 30 New gists found and saved into db for this user: brynary
+2022-07-12 11:55:16,723 - Creating acitivity on Pipedrive...
+2022-07-12 11:55:32,272 - Pipedrive-API: Created 30 activities successfully for user : brynary
+2022-07-12 11:55:33,362 - Gists fetched for this user: kevinclark
+2022-07-12 11:55:33,363 - Formatting gists...
+2022-07-12 11:55:33,390 - Formatting complete
+2022-07-12 11:55:33,518 - 30 New gists found and saved into db for this user: kevinclark
+2022-07-12 11:55:33,518 - Creating acitivity on Pipedrive...
+2022-07-12 11:55:47,505 - Pipedrive-API: Created 30 activities successfully for user : kevinclark
+2022-07-12 11:55:48,966 - Gists fetched for this user: technoweenie
+2022-07-12 11:55:48,967 - Formatting gists...
+2022-07-12 11:55:49,003 - Formatting complete
+2022-07-12 11:55:49,102 - 30 New gists found and saved into db for this user: technoweenie
+2022-07-12 11:55:49,102 - Creating acitivity on Pipedrive...
+2022-07-12 11:56:03,504 - Pipedrive-API: Created 30 activities successfully for user : technoweenie
+2022-07-12 11:56:05,194 - Gists fetched for this user: macournoyer
+2022-07-12 11:56:05,194 - Formatting gists...
+2022-07-12 11:56:05,203 - Formatting complete
+2022-07-12 11:56:05,263 - 30 New gists found and saved into db for this user: macournoyer
+2022-07-12 11:56:05,263 - Creating acitivity on Pipedrive...
+2022-07-12 11:56:21,024 - Pipedrive-API: Created 30 activities successfully for user : macournoyer
+2022-07-12 11:56:21,993 - Gists fetched for this user: takeo
+2022-07-12 11:56:21,994 - Formatting gists...
+2022-07-12 11:56:22,005 - Formatting complete
+2022-07-12 11:56:22,078 - 11 New gists found and saved into db for this user: takeo
+2022-07-12 11:56:22,079 - Creating acitivity on Pipedrive...
+2022-07-12 11:56:27,618 - Pipedrive-API: Created 11 activities successfully for user : takeo
+2022-07-12 11:56:28,658 - Gists fetched for this user: caged
+2022-07-12 11:56:28,659 - Formatting gists...
+2022-07-12 11:56:28,681 - Formatting complete
+2022-07-12 11:56:28,788 - 30 New gists found and saved into db for this user: caged
+2022-07-12 11:56:28,789 - Creating acitivity on Pipedrive...
+2022-07-12 11:56:42,400 - Pipedrive-API: Created 30 activities successfully for user : caged
+2022-07-12 11:56:43,738 - Gists fetched for this user: topfunky
+2022-07-12 11:56:43,740 - Formatting gists...
+2022-07-12 11:56:43,753 - Formatting complete
+2022-07-12 11:56:43,834 - 30 New gists found and saved into db for this user: topfunky
+2022-07-12 11:56:43,835 - Creating acitivity on Pipedrive...
+2022-07-12 11:56:55,694 - Pipedrive-API: Created 30 activities successfully for user : topfunky
+2022-07-12 11:56:56,975 - Gists fetched for this user: anotherjesse
+2022-07-12 11:56:56,975 - Formatting gists...
+2022-07-12 11:56:56,986 - Formatting complete
+2022-07-12 11:56:57,055 - 30 New gists found and saved into db for this user: anotherjesse
+2022-07-12 11:56:57,055 - Creating acitivity on Pipedrive...
+2022-07-12 11:57:08,417 - Pipedrive-API: Created 30 activities successfully for user : anotherjesse
+2022-07-12 11:57:08,757 - Gists fetched for this user: roland
+2022-07-12 11:57:08,758 - Formatting gists...
+2022-07-12 11:57:08,758 - Formatting complete
+2022-07-12 11:57:08,758 - No new gist created by user roland was found.
+2022-07-12 11:57:09,305 - Gists fetched for this user: lukas
+2022-07-12 11:57:09,306 - Formatting gists...
+2022-07-12 11:57:09,309 - Formatting complete
+2022-07-12 11:57:09,351 - 12 New gists found and saved into db for this user: lukas
+2022-07-12 11:57:09,351 - Creating acitivity on Pipedrive...
+2022-07-12 11:57:14,916 - Pipedrive-API: Created 12 activities successfully for user : lukas
+2022-07-12 11:57:15,499 - Gists fetched for this user: fanvsfan
+2022-07-12 11:57:15,501 - Formatting gists...
+2022-07-12 11:57:15,501 - Formatting complete
+2022-07-12 11:57:15,502 - No new gist created by user fanvsfan was found.
+2022-07-12 11:57:16,944 - Gists fetched for this user: tomtt
+2022-07-12 11:57:16,944 - Formatting gists...
+2022-07-12 11:57:16,952 - Formatting complete
+2022-07-12 11:57:17,005 - 30 New gists found and saved into db for this user: tomtt
+2022-07-12 11:57:17,006 - Creating acitivity on Pipedrive...
+2022-07-12 11:57:32,645 - Pipedrive-API: Created 30 activities successfully for user : tomtt
+2022-07-12 11:57:33,287 - Gists fetched for this user: railsjitsu
+2022-07-12 11:57:33,288 - Formatting gists...
+2022-07-12 11:57:33,288 - Formatting complete
+2022-07-12 11:57:33,289 - No new gist created by user railsjitsu was found.
+2022-07-12 11:57:33,710 - Gists fetched for this user: nitay
+2022-07-12 11:57:33,711 - Formatting gists...
+2022-07-12 11:57:33,714 - Formatting complete
+2022-07-12 11:57:33,757 - 2 New gists found and saved into db for this user: nitay
+2022-07-12 11:57:33,758 - Creating acitivity on Pipedrive...
+2022-07-12 11:57:35,063 - Pipedrive-API: Created 2 activities successfully for user : nitay
+2022-07-12 11:57:35,727 - Gists fetched for this user: kevwil
+2022-07-12 11:57:35,729 - Formatting gists...
+2022-07-12 11:57:35,737 - Formatting complete
+2022-07-12 11:57:35,786 - 15 New gists found and saved into db for this user: kevwil
+2022-07-12 11:57:35,786 - Creating acitivity on Pipedrive...
+2022-07-12 11:57:42,485 - Pipedrive-API: Created 15 activities successfully for user : kevwil
+2022-07-12 11:57:43,841 - Gists fetched for this user: KirinDave
+2022-07-12 11:57:43,841 - Formatting gists...
+2022-07-12 11:57:43,851 - Formatting complete
+2022-07-12 11:57:43,896 - 30 New gists found and saved into db for this user: KirinDave
+2022-07-12 11:57:43,897 - Creating acitivity on Pipedrive...
+2022-07-12 11:58:00,248 - Pipedrive-API: Created 30 activities successfully for user : KirinDave
+2022-07-12 11:58:01,843 - Gists fetched for this user: jamesgolick
+2022-07-12 11:58:01,844 - Formatting gists...
+2022-07-12 11:58:01,864 - Formatting complete
+2022-07-12 11:58:01,971 - 30 New gists found and saved into db for this user: jamesgolick
+2022-07-12 11:58:01,971 - Creating acitivity on Pipedrive...
+2022-07-12 11:58:15,810 - Pipedrive-API: Created 30 activities successfully for user : jamesgolick
+2022-07-12 11:58:17,314 - Gists fetched for this user: atmos
+2022-07-12 11:58:17,314 - Formatting gists...
+2022-07-12 11:58:17,326 - Formatting complete
+2022-07-12 11:58:17,384 - 30 New gists found and saved into db for this user: atmos
+2022-07-12 11:58:17,384 - Creating acitivity on Pipedrive...
+2022-07-12 11:58:30,763 - Pipedrive-API: Created 30 activities successfully for user : atmos
+2022-07-12 11:58:31,191 - Gists fetched for this user: errfree
+2022-07-12 11:58:31,192 - Formatting gists...
+2022-07-12 11:58:31,192 - Formatting complete
+2022-07-12 11:58:31,193 - No new gist created by user errfree was found.
+2022-07-12 11:58:32,532 - Gists fetched for this user: mojodna
+2022-07-12 11:58:32,532 - Formatting gists...
+2022-07-12 11:58:32,544 - Formatting complete
+2022-07-12 11:58:32,619 - 30 New gists found and saved into db for this user: mojodna
+2022-07-12 11:58:32,619 - Creating acitivity on Pipedrive...
+2022-07-12 11:58:44,888 - Pipedrive-API: Created 30 activities successfully for user : mojodna
+2022-07-12 11:58:46,598 - Gists fetched for this user: bmizerany
+2022-07-12 11:58:46,599 - Formatting gists...
+2022-07-12 11:58:46,622 - Formatting complete
+2022-07-12 11:58:46,722 - 30 New gists found and saved into db for this user: bmizerany
+2022-07-12 11:58:46,722 - Creating acitivity on Pipedrive...
+2022-07-12 11:58:59,085 - Pipedrive-API: Created 30 activities successfully for user : bmizerany
+2022-07-12 11:58:59,085 - ------------------------------Done!------------------------------
+2022-07-12 11:58:59,085 - Job "Schedular (trigger: interval[3:00:00], next run at: 2022-07-12 14:53:01 BST)" executed successfully

@@ -6,8 +6,8 @@ period = {
 }
 
 pipedrive = {
-    "api-key":"26a2690c1ff1cb5e56872867c00971c26c416b5e",
-    "domain":"student15",
+    "api-key":"8a25b427969f53b940693c57685e3abfc50fa410",
+    "domain":"systems",
     "url": "https://{0}.pipedrive.com/api/v1/activities?api_token={1}"
 }
 
