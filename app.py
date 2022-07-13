@@ -50,4 +50,4 @@ def show_user_gists(username):
 
 
 if __name__ == '__main__':
-    app.run(host='13.36.209.57', port=8000)  # run our Flask app
+    app.run(host='0.0.0.0', port=8000, threaded=True)  # run our Flask app
