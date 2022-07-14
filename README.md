@@ -24,14 +24,14 @@ The api-key and the domain for pipedrive API could be edited in the config.py.
 ### Option 1) Local build docker image and run
 1, Clone this repo, in command prompt goto the directory of this project (optional: change the configurations in the config.py)
 
-2, In command prompt, run `docker build  -t devops_challenge .`. Then a docker image should be built successfully.
+2, In command prompt, run `docker build  -t devops_challenge .` Then a docker image should be built successfully.
 
-3, In command prompt run `docker run -p 8000:8000 devops_challenge`.
+3, In command prompt run `docker run -p 8000:8000 devops_challenge`
 
 The scanner and the web server should start and the log of the scanner will be displayed in command prompt. Browse http://localhost:8000/ and http://localhost:8000/users to see the fetched simplified gists and scanend users. login to pipedrive andd check if the activities have been created.
 
 ### Option 2) Pull docker image and run
-1, In command prompt, run docker pull 1abrarahmed/devops_challenge
+1, In command prompt, run `docker pull 1abrarahmed/devops_challenge`
 2, In command prompt, run `docker run -p 8000:8000 --name gistAppContainer 1abrarahmed/devops_challenge`  This will run the docker image that I have uploaded to the Docker Hub. It is configured to create activity to my sandbox in pipedrive and the scheduler is set to have 3 hours interval
 
 ## Part II - CI /CD
