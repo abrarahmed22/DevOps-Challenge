@@ -1335,3 +1335,17 @@
 2022-07-12 17:57:06,368 -  * Running on http://192.168.1.2:8000/ (Press CTRL+C to quit)
 2022-07-12 17:57:37,451 - Scheduler has been shut down
 2022-07-12 17:57:37,656 - Scheduler has been shut down
+2022-07-13 20:42:38,305 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2022-07-13 20:42:38,308 - Added job "Schedular" to job store "default"
+2022-07-13 20:42:38,308 - Scheduler started
+2022-07-13 20:42:39,208 -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-07-13 20:42:39,211 -  * Running on http://192.168.1.2:5000/ (Press CTRL+C to quit)
+2022-07-13 20:43:28,766 - Scheduler has been shut down
+2022-07-14 10:59:01,854 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2022-07-14 10:59:01,857 - Added job "Schedular" to job store "default"
+2022-07-14 10:59:01,857 - Scheduler started
+2022-07-14 10:59:02,730 -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-07-14 10:59:02,732 -  * Running on http://192.168.1.2:8000/ (Press CTRL+C to quit)
+2022-07-14 10:59:22,754 - Scheduler has been shut down

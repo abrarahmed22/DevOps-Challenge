@@ -1,4 +1,3 @@
-import os
 import config
 import github_api
 from db_sqlite import Sqlite
@@ -50,4 +49,4 @@ def show_user_gists(username):
 
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=8000, threaded=True)  # run our Flask app
+    app.run(host='0.0.0.0', port=8000)  # run Flask app
